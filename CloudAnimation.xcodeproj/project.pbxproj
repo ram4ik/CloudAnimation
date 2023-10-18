@@ -11,6 +11,7 @@
 		846D198E2AE03E8E00AC6B3E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 846D198D2AE03E8E00AC6B3E /* ContentView.swift */; };
 		846D19902AE03E8F00AC6B3E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 846D198F2AE03E8F00AC6B3E /* Assets.xcassets */; };
 		846D19932AE03E8F00AC6B3E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 846D19922AE03E8F00AC6B3E /* Preview Assets.xcassets */; };
+		846D199A2AE03ED000AC6B3E /* Rain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 846D19992AE03ED000AC6B3E /* Rain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		846D198D2AE03E8E00AC6B3E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		846D198F2AE03E8F00AC6B3E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		846D19922AE03E8F00AC6B3E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		846D19992AE03ED000AC6B3E /* Rain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rain.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				846D198B2AE03E8E00AC6B3E /* CloudAnimationApp.swift */,
 				846D198D2AE03E8E00AC6B3E /* ContentView.swift */,
+				846D19992AE03ED000AC6B3E /* Rain.swift */,
 				846D198F2AE03E8F00AC6B3E /* Assets.xcassets */,
 				846D19912AE03E8F00AC6B3E /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				846D199A2AE03ED000AC6B3E /* Rain.swift in Sources */,
 				846D198E2AE03E8E00AC6B3E /* ContentView.swift in Sources */,
 				846D198C2AE03E8E00AC6B3E /* CloudAnimationApp.swift in Sources */,
 			);
